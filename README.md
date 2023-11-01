@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [http://vaibhavpachpute.me/](http://vaibhavpachpute.me/)
+- 👨‍💻 All of my projects are available at [https://vaibhavpachpute.me/](https://vaibhavpachpute.me/)
 
 - 💬 Ask me about **React, Flutter**
 
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavpachpute21&show_icons=true&locale=en" alt="vaibhavpachpute21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpachpute21&" alt="vaibhavpachpute21" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpachpute21&" alt="vaibhavpachpute21" /></p>!-->
